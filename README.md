@@ -30,7 +30,7 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 Write the detailed procedure here 
 
 ## Program:
-
+~~~
 module Halfsubtractor(A,B,Diff,Borrow);
 input A,B;
 output Diff,Borrow;
@@ -56,7 +56,7 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 Developed by: panimalar.p
 RegisterNumber:  22009107
 */
-
+~~~
 ## Output:
 
 ## Truthtable
